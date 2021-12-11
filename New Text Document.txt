@@ -1,2 +1,4 @@
 Hi iam vishnuteja
 I solved my first issue (  1 * 1 = 1)
+I solved my second issue ( 1 * 2 = 2)
+
